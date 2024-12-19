@@ -1,0 +1,24 @@
+
+header {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem; 
+}
+
+nav {
+    display: flex;
+    gap: 20px; 
+    justify-content: center;
+    font-size: 1.2rem; 
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #007bff; 
+}
